@@ -5,3 +5,4 @@ log/
 result/
 checkpoint/
 *.png
+ipynb_files/
