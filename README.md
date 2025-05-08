@@ -1,3 +1,8 @@
+# uDART: Early Prediction for ARDS via Unsupervised Domain Adaptation 
+  ### *2024 Spring Conference Korean Society of Medical Informatics Poster Session*
+
+![Poster](./poster.png)
+
 ## ❗Check
 - `uni`가 붙은 .py파일은 DA를 적용하지 않고 Source로만 학습하는 파일.
 각종 하이퍼파라미터들이나 Setting은 `main.py`의 argparser 참고.

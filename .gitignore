@@ -4,5 +4,6 @@ dataset/
 log/
 result/
 checkpoint/
-*.png
+tab.png/
+tab-vs-ft/png/
 ipynb_files/
