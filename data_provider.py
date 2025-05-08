@@ -70,7 +70,7 @@ class TableDataset(Dataset):
                 y = df_train[self.target]
                 return X_num, X_cat, y
             
-             # s_test mode
+            # s_test mode
             else:
                 X_num_standard = df_train[self.num_features]
                 scaler.fit(X_num_standard)
