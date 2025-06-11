@@ -5,7 +5,7 @@
 
 ## ❗Check
 - `uni`가 붙은 .py파일은 DA를 적용하지 않고 Source로만 학습하는 파일.
-각종 하이퍼파라미터들이나 Setting은 `main.py`의 argparser 참고.
+각종 하이퍼파라미터들이나 Setting은 `main.py`의 `argparser` 참고.
 
 -  `_uni`는 DA가 적용되지 않은 비교를 위한 것으로 Source Data로만 학습하고 Target Data 평가
 
